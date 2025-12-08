@@ -20,8 +20,8 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 
 <!--<h2 align="center">&lt;Hello, World!/&gt;</h2>-->
 <div align="center">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby" />
@@ -29,10 +29,10 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 
 <br />
 
-<!--<div align="center">
+<div align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
-</div>-->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
+</div>
 
 
 <h2 align="center">🧰 Technologies & Tools</h2>
