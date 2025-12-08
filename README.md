@@ -6,12 +6,6 @@
 
 
 <h2 align="center">👋 Hi there, I'm <strong>Agnaldo</strong></h2>
-<!--
-<p align="center">
-Sou Agnaldo Lima 👨‍💻, profissional de TI apaixonado por Linux, Open Source, Programação e soluções em Cloud Computing.    
-Atualmente, estou em transição para áreas de Cloud, DevSecOps e Engenharia de Plataforma.
-</p>
--->
 
 <p>
 Software Developer and Computer Science student at Unicamp. Passionate about Open Source, Cloud Computing, DevOps and Platform Engineering.
@@ -19,6 +13,7 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 </p>
 
 <!--<h2 align="center">&lt;Hello, World!/&gt;</h2>-->
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
@@ -26,14 +21,16 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby" />
 </div>
+-->
 
 <br />
 
+<!--
 <div align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
 </div>
-
+-->
 
 <h2 align="center">🧰 Technologies & Tools</h2>
 
