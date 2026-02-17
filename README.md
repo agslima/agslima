@@ -71,7 +71,7 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 
-![Agnaldo Silva Silva GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=agalima&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+![Agnaldo Silva Lima GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=agslima&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 
 </details>
 
