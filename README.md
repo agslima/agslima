@@ -63,3 +63,26 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
   </a>
 </p>
 
+---
+
+### <samp>**> Hi there 👋, I'm Agnaldo**</samp>
+
+<details>
+    <summary> <samp>📈 GitHub stats</samp></summary>
+<br/>
+
+![Agnaldo Silva Silva GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=agalima&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+
+</details>
+
+<details>
+    <summary> <samp>📝 Programming Languages</samp></summary>
+<br/>
+
+![Agnaldo Silva Lima Language stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=agslima&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
+
+</details>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:a.agnaldosilva@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/agslima/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/agslima)
