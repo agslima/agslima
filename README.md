@@ -1,38 +1,21 @@
 <!-- Logo -->
+<!--
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agslima&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="/img/capa.webp" alt="Logo Agnaldo" >
 </p>
-<p align="center">
-  <img src="/img/capa.webp" alt="Logo Agnaldo" width="800" />
-</p>
+-->
+### <samp>**> Hi there 👋, I'm Agnaldo**</samp>
 
+<details>
+    <summary> <samp>📝 About me</samp></summary>
+<br/>
+<samp>Software Developer and Computer Science student at Unicamp. Passionate about Open Source, Cloud Computing, DevOps and Platform Engineering.
+I have experience in Programming, DevOps/SRE, and Technical Support.</samp>
+</details>
 
-<h2 align="center">👋 Hi there, I'm <strong>Agnaldo</strong></h2>
-
-<p>
-Software Developer and Computer Science student at Unicamp. Passionate about Open Source, Cloud Computing, DevOps and Platform Engineering.
-I have experience in Programming, DevOps/SRE, and Technical Support.
-</p>
-
-<h2 align="center">&lt;Hello, World!/&gt;</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby" />
-</div>
-
-<br />
-
-
-<div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
-</div>
-
-<h2 align="center">🧰 Technologies & Tools</h2>
+<details>
+    <summary> <samp>🧰 Technologies & Tools</samp></summary>
+<br/>
 
 <p align="center">
   <!-- Programming Languages -->
@@ -52,37 +35,13 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode"></code>
 </p>
 
-<h2 align="center">📫 Contact</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/agslima/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Agnaldo%20Lima-0e76a8?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:a.agnaldosilva@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### <samp>**> Hi there 👋, I'm Agnaldo**</samp>
-
-<details>
-    <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
-
-![Agnaldo Silva Lima GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=agslima&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
-
-</details>
-
-<details>
-    <summary> <samp>📝 Programming Languages</samp></summary>
-<br/>
-
 ![Agnaldo Silva Lima Language stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=agslima&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
 
 </details>
 
+<img src="/profile-3d-contrib/profile-season.svg">
+
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:a.agnaldosilva@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/agslima/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/agslima)
+[![Profile views](https://komarev.com/ghpvc/?username=agslima&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/agslima)
