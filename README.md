@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agslima&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
 </p>
 <p align="center">
   <img src="/img/capa.webp" alt="Logo Agnaldo" width="800" />
@@ -13,24 +13,6 @@
 Software Developer and Computer Science student at Unicamp. Passionate about Open Source, Cloud Computing, DevOps and Platform Engineering.
 I have experience in Programming, DevOps/SRE, and Technical Support.
 </p>
-
-<h2 align="center">&lt;Hello, World!/&gt;</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=dracula" />
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=agslima&show_icons=true&theme=great-gatsby" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agslima&layout=compact&theme=great-gatsby" />
-</div>
-
-<br />
-
-
-<div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=great-gatsby" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agslima&theme=dracula" />
-</div>
 
 <h2 align="center">🧰 Technologies & Tools</h2>
 
@@ -66,6 +48,8 @@ I have experience in Programming, DevOps/SRE, and Technical Support.
 ---
 
 ### <samp>**> Hi there 👋, I'm Agnaldo**</samp>
+                                        
+<img src="https://komarev.com/ghpvc/?username=agslima&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 <details>
     <summary> <samp>📈 GitHub stats</samp></summary>
