@@ -21,7 +21,6 @@ I have experience in Programming, DevOps/SRE, and Technical Support.</samp>
   <!-- Programming Languages -->
  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go"></code>
  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"></code>
     <!-- Cloud & DevOps -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"></code>
@@ -32,13 +31,12 @@ I have experience in Programming, DevOps/SRE, and Technical Support.</samp>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"></code>
   <!-- Tools -->
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode"></code>
 </p>
 </details>
-<details>
+<details open="true">
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
-<img src="/profile-3d-contrib/profile-season.svg">
+<img src="/profile-3d-contrib/profile-green.svg">
 </details>
 
 
