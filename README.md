@@ -33,7 +33,7 @@ I have experience in Programming, DevOps/SRE, and Technical Support.</samp>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
 </p>
 </details>
-<details open="true">
+<details>
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 <img src="/profile-3d-contrib/profile-green.svg">
