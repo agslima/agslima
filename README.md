@@ -33,14 +33,11 @@ I have experience in Programming, DevOps/SRE, and Technical Support.</samp>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
 </p>
 </details>
-<details>
-    <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
+<summary> <samp>📈 GitHub stats</samp></summary>
   
 ![Agnaldo Silva Lima Language stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=agslima&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
 
 <!--<img src="/profile-3d-contrib/profile-green.svg">-->
-</details>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:a.agnaldosilva@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/agslima/)
